@@ -17,7 +17,7 @@ and sends the entire conversation context to the language model to generate mean
 ## Demo
 Below is a screenshot showing the chatbot running successfully in the terminal:
 
-![Chatbot Demo](chat-demo.png)
+![Chatbot Demo](https://github.com/mayuri-ai06/ai-console-chatbot/blob/main/MEMORYBOT-OUTPUT.png?raw=true)
 
 ## How to Run
 1. Clone the repository
