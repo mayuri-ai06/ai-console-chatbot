@@ -85,4 +85,4 @@ This project helps understand:
 ## 👩‍💻 Author
 
 **Mayuri Khatarkar**
-AIML Student | Python & AI Enthusiast | Graphic Designer
+AIML Student | Python & AI Enthusiast
