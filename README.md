@@ -27,7 +27,7 @@ The entire conversation history is sent to the LLM so the chatbot can respond wi
 
 Below is the chatbot running in the terminal:
 
-![Chatbot Demo](MEMORYBOT-OUTPUT.png)
+![Chatbot Demo](https://github.com/mayuri-ai06/ai-console-chatbot/blob/main/assets/MEMORYBOT-OUTPUT.png?raw=true)
 
 
 
